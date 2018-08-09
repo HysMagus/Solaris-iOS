@@ -57,7 +57,7 @@ static const struct { uint32_t height; const char *hash; uint32_t timestamp; uin
 };
 
 static const char *dns_seeds[] = {
-   "solarisnode.dyndns.org","node1.solariscoin.com"
+   "solarisnode.dyndns.org","solarisnode1.dyndns.org","solarisnode2.dyndns.org","solarisnode3.dyndns.org","solarisnode4.dyndns.org"
 };
 
 #else // main net
@@ -69,7 +69,7 @@ static const struct { uint32_t height; const char *hash; uint32_t timestamp; uin
 };
 
 static const char *dns_seeds[] = {
-    "solarisnode.dyndns.org", "node1.solariscoin.com"
+    "solarisnode.dyndns.org","solarisnode1.dyndns.org","solarisnode2.dyndns.org","solarisnode3.dyndns.org","solarisnode4.dyndns.org"
 };
 
 #endif
