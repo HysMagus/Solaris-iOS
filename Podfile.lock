@@ -1,0 +1,22 @@
+PODS:
+  - SlideMenuControllerSwift (3.0.2)
+
+DEPENDENCIES:
+  - SlideMenuControllerSwift (from `https://github.com/dekatotoro/SlideMenuControllerSwift.git`, branch `swift4`)
+
+EXTERNAL SOURCES:
+  SlideMenuControllerSwift:
+    :branch: swift4
+    :git: https://github.com/dekatotoro/SlideMenuControllerSwift.git
+
+CHECKOUT OPTIONS:
+  SlideMenuControllerSwift:
+    :commit: 88ed3c28b17fdbb194dfa8b2c8e37c742c0b78a7
+    :git: https://github.com/dekatotoro/SlideMenuControllerSwift.git
+
+SPEC CHECKSUMS:
+  SlideMenuControllerSwift: 9e8d2bba8ea9201c6207acb76e95a2841453ec9c
+
+PODFILE CHECKSUM: 24834fad802a6352fdc4e51a0e94e8b1fa60ff70
+
+COCOAPODS: 1.5.3
