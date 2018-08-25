@@ -1116,7 +1116,9 @@
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4fT-s3-WCA">
                                 <rect key="frame" x="16" y="322" width="382" height="92"/>
-                                <string key="text">Solaris is a decentralized open source cryptocurrency focused on privacy and innovation.</string>
+                                <string key="text">SOLARIS (Private, Instant, Verified, Transactions)
+is a privacy-focused, decentralized, open source cryptocurrency run by
+a global community comprised of creators, innovators, and technology enthusiasts.</string>
                                 <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="16"/>
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
